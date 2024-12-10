@@ -1,0 +1,82 @@
+[
+    {
+        "ID": 1,
+        "name": "Buttermilk Pancakes",
+        "price": "$15.99",
+        "image": "images/buttermilk_pancakes.jpeg",
+        "schedule": "breakfast",
+        "content": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    },
+    {
+        "ID": 2,
+        "name": "Double Diner",
+        "price": "$13.99",
+        "image": "images/double_diner.jpeg",
+        "schedule": "lunch",
+        "content": "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats"
+    },
+    {
+        "ID": 3,
+        "name": "Godzilla Milkshake",
+        "price": "$6.99",
+        "image": "images/godzilla_milkshake.jpeg",
+        "schedule": "shakes",
+        "content": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral."
+    },
+    {
+        "ID": 4,
+        "name": "Country Delight",
+        "price": "$20.99",
+        "image": "images/country_delight.jpeg",
+        "schedule": "breakfast",
+        "content": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,"
+    },
+    {
+        "ID": 5,
+        "name": "Egg Attack",
+        "price": "$22.99",
+        "image": "images/egg_attack.jpeg",
+        "schedule": "lunch",
+        "content": "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up"
+    },
+    {
+        "ID": 6,
+        "name": "Oreo Dream",
+        "price": "$18.99",
+        "image": "images/buttermilk_pancakes.jpeg",
+        "schedule": "shakes",
+        "content": "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday"
+    },
+    {
+        "ID": 7,
+        "name": "Bacon Overflow",
+        "price": "$8.99",
+        "image": "images/bacon_overflow.jpeg",
+        "schedule": "breakfast",
+        "content": "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird"
+    },
+    {
+        "ID": 8,
+        "name": "American Classic",
+        "price": "$12.99",
+        "image": "images/american_classic.jpeg",
+        "schedule": "lunch",
+        "content": "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut"
+    },
+    {
+        "ID": 9,
+        "name": "Quarantine Buddy",
+        "price": "$16.99",
+        "image": "images/quarantine_buddy.jpeg",
+        "schedule": "shakes",
+        "content": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing."
+    },
+    {
+        "ID": 10,
+        "name": "Steak Dinner",
+        "price": "$39.99",
+        "image": "images/steak_dinner.jpeg",
+        "schedule": "dinner",
+        "content": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing."
+    }
+]
